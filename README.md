@@ -1,4 +1,4 @@
 # sps-demo_1
-this is my first git repository
+This is my first Git Repository
 <br>
-Auther - Shivam Shukla
+Author - Shivam Shukla
